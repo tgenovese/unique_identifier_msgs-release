@@ -1,3 +1,26 @@
+## unique_identifier_msgs (jazzy) - 2.5.0-4
+
+The packages in the `unique_identifier_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/unique_identifier_msgs-release.git unique_identifier_msgs` on `Tue, 29 Jul 2025 14:21:03 -0000`
+
+The `unique_identifier_msgs` package was released.
+
+Version of package(s) in repository `unique_identifier_msgs`:
+
+- upstream repository: https://github.com/ros2/unique_identifier_msgs.git
+- release repository: https://github.com/tgenovese/unique_identifier_msgs-release.git
+- rosdistro version: `2.5.0-3`
+- old version: `2.5.0-3`
+- new version: `2.5.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## unique_identifier_msgs (rolling) - 2.8.0-1
 
 The packages in the `unique_identifier_msgs` repository were released into the `rolling` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release unique_identifier_msgs -r rolling` on `Fri, 25 Apr 2025 18:58:33 -0000`
